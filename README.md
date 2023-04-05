@@ -1,0 +1,4 @@
+- Run `$ npm install` to download TypeScript.
+- Open `src/example-2.ts`.
+- VS Code will report **6 references** of `hello`.
+- WebStorm/IntelliJ will report `"no usages"`.

@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "engines": {
+    "node": "^18.12.0"
+  }
+}
